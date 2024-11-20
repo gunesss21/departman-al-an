@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/departman/departman/bin/Debug/net8.0/departman
+/Users/svage/RiderProjects/departman/departman/bin/Debug/net8.0/departman.deps.json
+/Users/svage/RiderProjects/departman/departman/bin/Debug/net8.0/departman.runtimeconfig.json
+/Users/svage/RiderProjects/departman/departman/bin/Debug/net8.0/departman.dll
+/Users/svage/RiderProjects/departman/departman/bin/Debug/net8.0/departman.pdb
+/Users/svage/RiderProjects/departman/departman/obj/Debug/net8.0/departman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/departman/departman/obj/Debug/net8.0/departman.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/departman/departman/obj/Debug/net8.0/departman.AssemblyInfo.cs
+/Users/svage/RiderProjects/departman/departman/obj/Debug/net8.0/departman.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/departman/departman/obj/Debug/net8.0/departman.dll
+/Users/svage/RiderProjects/departman/departman/obj/Debug/net8.0/refint/departman.dll
+/Users/svage/RiderProjects/departman/departman/obj/Debug/net8.0/departman.pdb
+/Users/svage/RiderProjects/departman/departman/obj/Debug/net8.0/departman.genruntimeconfig.cache
+/Users/svage/RiderProjects/departman/departman/obj/Debug/net8.0/ref/departman.dll
